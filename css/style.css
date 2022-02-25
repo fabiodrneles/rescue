@@ -8,3 +8,7 @@ h1 {
 	font-size:40px;
 	color:#603A03;
 }
+
+body {
+	background-image:url(../imgs/fundo.jpg);
+}
