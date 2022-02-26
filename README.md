@@ -1,1 +1,1 @@
-# rescue
+# Aplicação Web construida durante o Bootcamp Take Blip Web Developer, este Bootcamp faz parte do programa Órbi Academy Techboost, iniciativa da DIO junto ao Órbi Conecta para propor aprendizado e estudo em carreiras de tecnologia.
